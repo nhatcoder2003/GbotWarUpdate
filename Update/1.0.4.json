@@ -1,0 +1,12 @@
+{
+  "changed":[
+    "package.json"
+    ],
+  "added":[
+    "nhatcoder.js"
+    ]
+  "removed":[
+    "index.js"
+    ],
+  "preVersion":"1.0.0"
+}
