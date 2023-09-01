@@ -8,7 +8,7 @@
     "./nhatcoder.js",
     "./application/commands/War/antiname.js",
     "./application/commands/War/antinickname.js",
-    "./application/commands/Admin/help.js"
+    "./application/commands/Admin/help.js",
     "./src/Banner.js",
     "./src/Sleep.js"
     ],
@@ -17,7 +17,6 @@
     "./application/commands/War/chuidenchet.js",
     "./application/commands/War/Spam.js",
     "./src/logo.js"
-    
     ],
   "preVersion":"1.0.5"
 }
