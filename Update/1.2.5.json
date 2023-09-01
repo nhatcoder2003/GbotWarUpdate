@@ -2,19 +2,20 @@
   "changed":[
     "./package.json",
     "./README.md",
-    "./application/commands/antiimgbox.js"
+    "./application/commands/War/antiimgbox.js"
     ],
   "added":[
     "./nhatcoder.js",
-    "./application/commands/antiname.js",
-    "./application/commands/antinickname.js",
+    "./application/commands/War/antiname.js",
+    "./application/commands/War/antinickname.js",
+    "./application/commands/Admin/help.js"
     "./src/Banner.js",
     "./src/Sleep.js"
     ],
   "removed":[
     "./index.js",
-    "./application/commands/chuidenchet.js",
-    "./application/commands/Spam.js",
+    "./application/commands/War/chuidenchet.js",
+    "./application/commands/War/Spam.js",
     "./src/logo.js"
     
     ],
