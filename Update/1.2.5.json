@@ -1,0 +1,22 @@
+{
+  "changed":[
+    "./package.json",
+    "./README.md",
+    "./application/commands/antiimgbox.js"
+    ],
+  "added":[
+    "./nhatcoder.js",
+    "./application/commands/antiname.js",
+    "./application/commands/antinickname.js",
+    "./src/Banner.js",
+    "./src/Sleep.js"
+    ],
+  "removed":[
+    "./index.js",
+    "./application/commands/chuidenchet.js",
+    "./application/commands/Spam.js",
+    "./src/logo.js"
+    
+    ],
+  "preVersion":"1.0.5"
+}
