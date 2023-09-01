@@ -1,13 +1,12 @@
 {
   "changed":[
-    "./package.json",
-    "./update.js"
+    "./package.json"
     ],
   "added":[
     "./index.js"
     ],
   "removed":[
-    "./index.js"
+    "./nhatcoder.js"
     ],
-  "preVersion":"1.0.0"
+  "preVersion":"1.0.4"
 }
