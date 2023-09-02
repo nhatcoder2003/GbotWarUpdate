@@ -1,6 +1,9 @@
 {
-  "changed":[],
+  "changed":[
+    "./package.json"
+    ],
   "added":[
+    
     "./application/commands/Admin/taobox.js"
     ],
   "removed":[],
