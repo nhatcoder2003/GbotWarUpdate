@@ -1,7 +1,8 @@
 {
   "changed":[
     "./package.json",
-    "./README.md"
+    "./README.md",
+    "./config/config.main.json"
     ],
   "added":[
       "./script/setup.sh",
