@@ -1,0 +1,13 @@
+{
+  "changed":[
+    "./package.json",
+    "./README.md"
+    ],
+  "added":[
+      "./script/setup.sh",
+      "./script/update.sh",
+      "./script/start.sh"
+    ],
+  "removed":[],
+  "preVersion":"1.2.5"
+}
