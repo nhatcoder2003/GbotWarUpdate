@@ -1,0 +1,13 @@
+{
+  "changed":[
+    "./package.json",
+    "./nhatcoder.js"
+    ],
+  "added":[
+    "./application/commands/Groups/adduser.js",
+    "./application/commands/Groups/kick.js",
+    "./application/commands/Groups/tagall.js"
+    ],
+  "removed":[],
+  "preVersion":"1.6.8"
+}
