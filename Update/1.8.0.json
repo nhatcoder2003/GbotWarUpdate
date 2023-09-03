@@ -1,0 +1,14 @@
+{
+  "changed":[
+    "./package.json",
+    "./nhatcoder.js"
+    ],
+  "added":[
+    "./application/commands/economy/balance.js",
+    "./application/commands/economy/daily.js",
+    "./application/commands/economy/sicbo.js",
+    "./application/commands/economy/work.js"
+    ],
+  "removed":[],
+  "preVersion":"1.7.5"
+}
