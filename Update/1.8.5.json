@@ -1,0 +1,15 @@
+{
+  "changed":[
+    "./package.json",
+    ],
+  "added":[
+    "./updater.js"
+    ],
+  "removed":[
+    "./update.js"
+    ],
+  "descriptions":[
+    "Add more descriptions"
+    ]
+  "preVersion":"1.8.0"
+}
