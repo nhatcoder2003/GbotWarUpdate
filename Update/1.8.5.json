@@ -1,6 +1,7 @@
 {
   "changed":[
     "./package.json",
+    "./script/update.sh"
     ],
   "added":[
     "./updater.js"
