@@ -3,7 +3,8 @@
     "./package.json",
     "./updater.js",
     "./config/config.main.json",
-    "./nhatcoder.js"
+    "./nhatcoder.js",
+    "./src/Banner.js"
     ],
   "added":[
     "./application/commands/War/spam.js"
