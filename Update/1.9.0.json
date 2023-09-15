@@ -1,0 +1,19 @@
+{
+  "changed":[
+    "./package.json",
+    "./updater.js",
+    "./config/config.main.json",
+    "./nhatcoder.js"
+    ],
+  "added":[
+    "./application/commands/War/spam.js"
+    ],
+  "removed":[
+    "./src/core/languages/ar_SY.yml",
+    "/src/core/languages/en_US.yml"
+    ],
+  "descriptions":[
+    "Fixer Update"
+    ],
+  "preVersion":"1.8.6"
+}
