@@ -72,10 +72,10 @@
       "./Shell/Setup.sh"
     ],
   "removed":[
-    "./src",
-    "./application",
-    "./script",
-    "./config"
+    "./src/nhatcoder.js",
+    "./application/autosend.js",
+    "./script/start.sh",
+    "./config/config.main.json"
     ],
   "descriptions":[
     "Big Update"
