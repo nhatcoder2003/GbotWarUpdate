@@ -64,11 +64,18 @@
       "./Scripts/events/unsubcribe.js",
       "./Scripts/events/user-nickname.js",
       "./Scripts/onMessage/nhatcoder",
-      "./Scripts/resend.js"
+      "./Scripts/resend.js",
+      "./Config/config.main.json",
+      "./Config/config.plugin.json",
+      "./Shell/Start.sh",
+      "./Shell/Update.sh",
+      "./Shell/Setup.sh"
     ],
   "removed":[
     "./src",
-    "./application"
+    "./application",
+    "./script",
+    "./config"
     ],
   "descriptions":[
     "Big Update"
