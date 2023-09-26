@@ -1,0 +1,17 @@
+{
+  "changed":[
+    "./package.json",
+    "./Config/config.main.json",
+    "./System/Gbot.js"
+    ],
+  "added":[
+    "./Scripts/customs/notiUpdate.js"
+    ],
+  "removed":[
+    "./Scripts/onMessage/notificationUpdate.js"
+    ],
+  "descriptions":[
+    "Add on Webview"
+    ],
+  "preVersion":"2.0.0"
+}
