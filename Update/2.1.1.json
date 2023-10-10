@@ -1,0 +1,14 @@
+{
+  "changed":[
+    "./package.json",
+    "./Scripts/customs/notiUpdate.js"
+    ],
+  "added":[
+    ],
+  "removed":[
+    ],
+  "descriptions":[
+    "Fix Update Notification"
+    ],
+  "preVersion":"2.0.1"
+}
